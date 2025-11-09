@@ -1,0 +1,21 @@
+# Ignore environment and secrets
+.env
+*.env
+.env.*
+
+# Python cache and build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+build/
+dist/
+
+# Logs and junk
+*.log
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PromptForge</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+    <link rel="icon" href="https://cdn.jsdelivr.net/gh/lucide-icons/lucide/icons/hammer.svg" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <h1>PromptForge</h1>
+
+        <div class="sections">
+          <h3>Sections</h3>
+          <div id="sections" class="section-chips"></div>
+          <div class="add-section">
+            <input id="sectionInput" placeholder="Add new section" />
+            <button id="addSection"><i data-lucide="plus"></i></button>
+          </div>
+        </div>
+
+        <div class="history">
+          <h3>History</h3>
+          <div class="history-row">
+            <select id="historySelect">
+              <option value="">Select a session...</option>
+            </select>
+            <button id="refreshHistory"><i data-lucide="refresh-ccw"></i></button>
+          </div>
+          <small class="muted">Select a past chat to load.</small>
+        </div>
+      </aside>
+
+      <main class="chat-area">
+        <div id="results" class="messages"></div>
+        <div class="chat-input">
+          <button class="icon-btn" id="plusBtn"><i data-lucide="plus"></i></button>
+          <textarea id="question" placeholder="Type your question..." rows="1"></textarea>
+          <button class="icon-btn" id="micBtn"><i data-lucide="mic"></i></button>
+          <button class="icon-btn send" id="runBtn"><i data-lucide="send"></i></button>
+        </div>
+      </main>
+    </div>
+
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>

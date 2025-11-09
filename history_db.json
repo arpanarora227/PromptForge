@@ -1,0 +1,167 @@
+[
+  {
+    "id": "a74aa804-4607-41c7-8c15-3985da1727f3",
+    "ts": 1762663566,
+    "question": "When did Mark Carney became PM of Canada?",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": "Error contacting OpenRouter: 'choices'",
+      "Explanation": "Error contacting OpenRouter: 'choices'",
+      "Why this": "Error contacting OpenRouter: 'choices'"
+    }
+  },
+  {
+    "id": "c2990593-6d06-4784-9068-f64c65e0ed47",
+    "ts": 1762663710,
+    "question": "When did Mark Carney became PM of Canada?",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": "Unexpected response from OpenRouter: {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 8192 tokens, but can only afford 2666. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2yN9nvzH699iJxg9DfHu4MszKB1'}",
+      "Explanation": "Unexpected response from OpenRouter: {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 8192 tokens, but can only afford 2666. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2yN9nvzH699iJxg9DfHu4MszKB1'}",
+      "Why this": "Unexpected response from OpenRouter: {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 8192 tokens, but can only afford 2666. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2yN9nvzH699iJxg9DfHu4MszKB1'}"
+    }
+  },
+  {
+    "id": "387bc9d1-13ff-47f9-aa76-70fa20bf9c7a",
+    "ts": 1762663802,
+    "question": "When did Mark Carney became PM of Canada",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": " ",
+      "Explanation": " ",
+      "Why this": " "
+    }
+  },
+  {
+    "id": "e21c0dae-fbbe-4193-a240-5b48fa3d7adc",
+    "ts": 1762663815,
+    "question": "ok",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": " ",
+      "Explanation": " ",
+      "Why this": " "
+    }
+  },
+  {
+    "id": "2ecd7e4d-4805-4020-aab8-387b2669e646",
+    "ts": 1762664004,
+    "question": "When did Mark Carney became PM of Canada",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": "Unexpected response from OpenRouter: {'error': {'message': 'User not found.', 'code': 401}}",
+      "Explanation": "Unexpected response from OpenRouter: {'error': {'message': 'User not found.', 'code': 401}}",
+      "Why this": "Unexpected response from OpenRouter: {'error': {'message': 'User not found.', 'code': 401}}"
+    }
+  },
+  {
+    "id": "e0581297-c019-45d8-ac9c-70d651b517b5",
+    "ts": 1762664091,
+    "question": "when did Mark Carney became PM of Canada",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": " Answer: Mark Carney did not become the Prime Minister of Canada.\n\nExplanation: Mark Carney is a prominent economist and banker who served as the Governor of the Bank of Canada from 2008 to 2013 and as the Governor of the Bank of England from 2013 to 2019. He has also held positions in international organizations such as the Financial Stability Board and the G20. However, he has never held the office of Prime Minister in Canada.\n\nWhy this: Mark Carney is a highly respected figure in finance and economics, but his career has focused primarily on central banking and financial regulation. The position of Prime Minister in Canada is a political office that is separate from the role of Governor of the Bank of Canada.",
+      "Explanation": " Answer: Mark Carney did not become the Prime Minister of Canada.\n\nExplanation: Mark Carney is a prominent economist and banker who served as the Governor of the Bank of Canada from 2008 to 2013 and as the Governor of the Bank of England from 2013 to 2019. He has also held positions in international organizations such as the Financial Stability Board and the G20. However, he has never held the office of Prime Minister in Canada.\n\nWhy this: Mark Carney is a highly respected figure in finance and economics, but his career has focused primarily on central banking and financial regulation. The position of Prime Minister in Canada is a political office that is separate from the role of Governor of the Bank of Canada.",
+      "Why this": " Answer: Mark Carney did not become the Prime Minister of Canada.\n\nExplanation: Mark Carney is a prominent economist and banker who served as the Governor of the Bank of Canada from 2008 to 2013 and as the Governor of the Bank of England from 2013 to 2019. He has also held positions in international organizations such as the Financial Stability Board and the G20. However, he has never held the office of Prime Minister in Canada.\n\nWhy this: Mark Carney is a highly respected figure in finance and economics, but his career has focused primarily on central banking and financial regulation. The position of Prime Minister in Canada is a political office that is separate from the role of Governor of the Bank of Canada."
+    }
+  },
+  {
+    "id": "e18a275b-a374-4e60-86d6-76aadef3d2e2",
+    "ts": 1762664257,
+    "question": "What is the difference between AI and machine learning?",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": "",
+      "Explanation": "",
+      "Why this": ""
+    }
+  },
+  {
+    "id": "4e1896bd-9905-4e78-85cd-ce35d48d85e6",
+    "ts": 1762664393,
+    "question": "What is the difference between AI and machine learning?",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": ": AI (Artificial Intelligence) is a broader concept of machines being able to carry out tasks in a way that we would consider \"smart,\" while machine learning (ML) is a subset of AI that focuses on the ability of machines to improve at tasks with experience and data.",
+      "Explanation": ":\n- **AI**: Refers to any system that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI can be rule-based (like expert systems) or data-driven (like machine learning).\n- **Machine Learning**: A specific approach to AI where systems learn patterns from data without being explicitly programmed. ML algorithms improve their performance as they are exposed to more data over time.",
+      "Why this": ":\n- The distinction is important because not all AI systems use machine learning, and not all machine learning applications are considered AI. For example, a rule-based chatbot might be AI but not use ML, while a recommendation system might use ML but not necessarily be considered AI in the broader sense."
+    }
+  },
+  {
+    "id": "345c4ed8-3e0b-4c95-9cca-2b9963dd13c9",
+    "ts": 1762664430,
+    "question": "When did Mark Carney become PM of Canada?",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": "(no response)",
+      "Explanation": "(no response)",
+      "Why this": "(no response)"
+    }
+  },
+  {
+    "id": "6918043b-72f6-45f6-8cad-7d18a96df74c",
+    "ts": 1762664455,
+    "question": "when did Mark Carney became a PM of Canada",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": ": Mark Carney has never been the Prime Minister of Canada.",
+      "Explanation": ": Mark Carney is a Canadian economist and banker who served as the Governor of the Bank of Canada from 2008 to 2013 and as the Governor of the Bank of England from 2013 to 2020. He also served as the United Nations Special Envoy on Climate Action and Finance. However, he has never held the position of Prime Minister of Canada.",
+      "Why this": ": The Prime Minister of Canada is the head of government, typically a politician. Mark Carney's roles have been in the financial and economic sectors, not in political leadership."
+    }
+  },
+  {
+    "id": "431cd320-0a7b-4751-999f-3d79f6d56566",
+    "ts": 1762664524,
+    "question": "Who caused the 2008 depression",
+    "sections": [
+      "Answer",
+      "Explanation",
+      "Why this"
+    ],
+    "answers": {
+      "Answer": ": The 2008 financial crisis, often referred to as the \"Great Recession,\" was caused by a combination of factors, primarily the collapse of the housing bubble, excessive risk-taking by banks, and the failure of major financial institutions.",
+      "Explanation": ":\n1. **Housing Bubble and Subprime Mortgages**: The crisis was triggered by the burst of the U.S. housing bubble, which had been inflating due to easy credit conditions. Many homeowners took on mortgages they couldn't afford, particularly subprime mortgages, which were high-risk loans given to borrowers with poor credit histories.\n2. **Securitization and Financial Derivatives**: Banks packaged these risky mortgages into complex financial products known as mortgage-backed securities (MBS) and collateralized debt obligations (CDOs). These products were then sold to investors worldwide, spreading the risk globally.\n3. **Leverage and Risk-Taking**: Financial institutions, including major investment banks like Lehman Brothers and Bear Stearns, engaged in excessive leverage and risky investments. When housing prices started to fall, these institutions faced massive losses.\n4. **Credit Default Swaps (CDS)**: Insurance-like contracts called credit default swaps were used to hedge against the risk of mortgage defaults. However, when defaults increased, companies like AIG, which had sold many CDS contracts, were unable to cover the losses, leading to a liquidity crisis.\n5. **Bank Failures and Contagion**: The collapse of Lehman Brothers in September 2008 marked a turning point, leading to a panic in global financial markets. The crisis spread to other countries as financial institutions worldwide faced liquidity problems and credit markets froze.",
+      "Why this": ": The 2008 crisis was a complex event with multiple contributing factors. While no single entity can be blamed, the combination of lax regulation, excessive risk-taking by financial institutions, and the speculative housing market led to the downturn. The crisis highlighted the interconnectedness of global financial systems and the need for better regulation and risk management."
+    }
+  }
+]
